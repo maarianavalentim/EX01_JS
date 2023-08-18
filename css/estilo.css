@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
     
     header {
-        background-color: #ff0000;
+        background-color: #cda044;
         height: 80px; width: 100vw;
     
     }
@@ -98,7 +98,7 @@ header {
 }
 
 .botao{
-    background-color: #51628e;
+    background-color: #cda044;
     height: 45px;
     width: 150px;
     text-align: center;
@@ -147,12 +147,12 @@ h1 {
 }
 
 .linha-amarela {
-    border: solid 1px #8a8a8a;
+    border: solid 1px #f8af00;
 }
 
 .titulo-senai {
     font-family: 'Courier New', Courier, monospace;
-    color: #91a1ba;
+    color: #cda044;
     font-size: 50px;
     text-transform: uppercase;
     font-weight: 600;
@@ -169,7 +169,7 @@ h1 {
 }
 
 .sobre-projetos h2 {
-    color: #91a1ba;
+    color: #f8af00;
     font-size: 50px;
     font-weight: 500;
     margin-bottom: 40px;
@@ -189,7 +189,7 @@ h1 {
 }
 
 .texto-participantes {
-    color: #51628e;
+    color: #fdbd18;
     font-family: 'Courier New', Courier, monospace;
     text-transform: uppercase;
     font-size: 25px;
@@ -197,7 +197,7 @@ h1 {
 }
 
 .conteudo-sobre h3 {
-    color:#91a1ba;
+    color:#cda044;
     font-size: 45px;
     font-weight: 500;
 }
@@ -236,7 +236,7 @@ h1 {
     color: #dedad7;
     font-size: 22px;
     font-weight: 600;
-    border: solid 3px #51628e;
+    border: solid 3px #f8af00;
     width: 250px;
     padding: 30px 0;
     text-align: center;
@@ -254,13 +254,13 @@ h1 {
 }
 
 .conteudo-endereco h2 {
-    color: #91a1ba;
+    color: #fdbd18;
     font-size: 50px;
     font-weight: 500;
 }
 
 .texto-endereco {
-    color: #91a1ba;
+    color: #cda044;
     font-family: 'Courier New', Courier, monospace;
     background-color: #010010;
     border: solid 2px #182044;
